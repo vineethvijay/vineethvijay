@@ -24,7 +24,7 @@ currently:
     - Setting up monitoring where traditional setups are absent or simply not possible
   homelab:
     - Running a Proxmox-powered lab on repurposed hardware with 70+ containers
-    - Building [Random Video Clips Streaming Server](https://github.com/vineethvijay/Random-Video-Clips-Streaming-Server) as a personal IPTV-style project
+    - Building a Random Video Clips Streaming Server as a personal IPTV-style project - See "🏠 Homelab" section below
 
 ```
 
@@ -32,7 +32,7 @@ currently:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-vineeth--vijay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vineeth-vijay)&nbsp;
+💼 [![LinkedIn](https://img.shields.io/badge/-vineeth--vijay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vineeth-vijay)&nbsp;
 [![Email](https://img.shields.io/badge/-vineethvijay777@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vineethvijay777@gmail.com)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=vineethvijay&style=flat-square&color=00e5a0&label=visitors)
 
@@ -40,29 +40,20 @@ currently:
 
 ---
 
-### 🧰 What I work with daily
+### 🎖️ Certs
 
 <div align="center">
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA_Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![RHCE](https://img.shields.io/badge/RHCE_+_RHCSA-EE0000?style=flat-square&logo=red-hat&logoColor=white)
+![CSM](https://img.shields.io/badge/Certified_ScrumMaster-009FDA?style=flat-square&logoColor=white)
 
 </div>
 
-<details>
-<summary>🗂️ <b>Full stack — click to expand</b></summary>
-<br>
+---
+
+### 🧰 What I work with
 
 **☁️ Cloud & Platforms**
 
@@ -121,8 +112,6 @@ currently:
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white)
 
-</details>
-
 ---
 
 ### 📊 GitHub Stats
@@ -148,19 +137,6 @@ currently:
 
 ---
 
-### 🎖️ Certs
-
-<div align="center">
-
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![CKA](https://img.shields.io/badge/CKA_Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![RHCE](https://img.shields.io/badge/RHCE_+_RHCSA-EE0000?style=flat-square&logo=red-hat&logoColor=white)
-![CSM](https://img.shields.io/badge/Certified_ScrumMaster-009FDA?style=flat-square&logoColor=white)
-
-</div>
-
----
-
 ### 🏢 Where I've been
 
 ```
@@ -177,18 +153,16 @@ Qburst            ████████░░░░░░░░░░░░  
 
 ### 🏠 Homelab
 
-Old laptops don't retire — they run Proxmox. I keep a small homelab alive with a few repurposed machines running **Proxmox**, hosting **70+ containers** across various self-hosted services. It's where I break things on purpose, test ideas without consequences, and genuinely have fun.
+Old laptops don't retire - they run Proxmox. I keep a small homelab alive with a few repurposed machines running **Proxmox**, hosting **70+ containers** across various self-hosted services. It's where I break things on purpose, test ideas without consequences, and genuinely have fun.
 
 Latest project I'm building on it:
 
-**[Random Video Clips Streaming Server](https://github.com/vineethvijay/Random-Video-Clips-Streaming-Server)** ([LinkedIn story](https://www.linkedin.com/posts/vineeth-vijay_github-vineethvijayrandom-video-clips-streaming-server-activity-7432732024550969345-LfMZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLrTnIBAc3z7oGas5AIjNBpNyexSh_JlAE)) — A fully containerized live streaming server that shuffles short clips from a video collection into a never-ending HLS live stream, with continuous background audio and a Flutter TV/Web client. Because why not have your own IPTV channel.
+**[Random Video Clips Streaming Server](https://github.com/vineethvijay/Random-Video-Clips-Streaming-Server)** ([LinkedIn story](https://www.linkedin.com/posts/vineeth-vijay_github-vineethvijayrandom-video-clips-streaming-server-activity-7432732024550969345-LfMZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLrTnIBAc3z7oGas5AIjNBpNyexSh_JlAE)) - A fully containerized live streaming server that shuffles short clips from a video collection into a never-ending HLS live stream, with continuous background audio and a Flutter TV/Web client. Because why not have your own IPTV channel.
 
 ---
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=100&section=footer)](https://github.com/vineethvijay)
-
-*infrastructure should be boring. incidents should be rare. deployments should be invisible.*
+*Infrastructure should be boring. Incidents should be rare. Deployments should be invisible.*
 
 </div>
