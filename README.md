@@ -12,6 +12,7 @@ name:       Vineeth Vijayan
 location:   Huizen, Amsterdam 🇳🇱
 day_job:    Senior DevOps Engineer @ IKEA
 philosophy: "If you did it twice, automate it. If you automated it, monitor it."
+homelab:    Random Video Clips Streaming Server
 
 currently:
   - Managing 600+ pod Kubernetes environments across all prod regions for some IKEA store applications
@@ -123,6 +124,10 @@ fun_fact:   Breaking and fixing infrastructure since 2015
 
 ### 📊 GitHub Stats
 
+<details>
+<summary><b>Show stats</b></summary>
+<br>
+
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vineethvijay&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00aaff&text_color=8b9eb7&count_private=true"/>
@@ -135,6 +140,8 @@ fun_fact:   Breaking and fixing infrastructure since 2015
 [![GitHub Streak](https://streak-stats.demolab.com?user=vineethvijay&theme=transparent&hide_border=true&background=0d1117&stroke=1e2d3d&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0&sideLabels=8b9eb7&dates=4a5568&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/vineethvijay)
 
 </div>
+
+</details>
 
 ---
 
@@ -162,6 +169,16 @@ Lunatech Labs     ████░░░░░░░░░░░░░░░░  
 Innovatise        ████████░░░░░░░░░░░░  Mar 2017 → Aug 2018
 Qburst            ████████░░░░░░░░░░░░  Jul 2015 → Mar 2017
 ```
+
+---
+
+### 🏠 Homelab
+
+Old laptops don't retire — they run Proxmox. I keep a small homelab alive with a few repurposed machines running **Proxmox**, hosting **70+ containers** across various self-hosted services. It's where I break things on purpose, test ideas without consequences, and genuinely have fun.
+
+Latest project I'm building on it:
+
+**[Random Video Clips Streaming Server](https://github.com/vineethvijay/Random-Video-Clips-Streaming-Server)** — A fully containerized live streaming server that shuffles short clips from a video collection into a never-ending HLS live stream, with continuous background audio and a Flutter TV/Web client. Because why not have your own IPTV channel.
 
 ---
 
