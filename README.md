@@ -12,17 +12,20 @@ name:       Vineeth Vijayan
 location:   Huizen, Amsterdam 🇳🇱
 day_job:    Senior DevOps Engineer @ IKEA
 philosophy: "If you did it twice, automate it. If you automated it, monitor it."
-homelab:    Random Video Clips Streaming Server
+fun_fact:   Breaking and fixing infrastructure since 2015
 
 currently:
-  - Managing 600+ pod Kubernetes environments across all prod regions for some IKEA store applications
-  - Rebuilding observability stack with OpenTelemetry → Grafana
-  - Migrating Kafka clusters without anyone noticing (zero downtime)
-  - Alicloud cloud setup (k8s, databases) for special China region requirements
-  - Building AI agents to supercharge ServiceNow incident handling (won IKEA Hackathon 🏆)
-  - Setting up monitoring where traditional setups are absent or simply not possible
+  ikea:
+    - Managing 600+ pod Kubernetes environments across all prod regions for some IKEA store applications
+    - Rebuilding observability stack with OpenTelemetry → Grafana
+    - Migrating Kafka clusters without anyone noticing (zero downtime)
+    - Alicloud cloud setup (k8s, databases) for special China region requirements
+    - Building AI agents to supercharge ServiceNow incident handling (won IKEA Hackathon 🏆)
+    - Setting up monitoring where traditional setups are absent or simply not possible
+  homelab:
+    - Running a Proxmox-powered lab on repurposed hardware with 70+ containers
+    - Building [Random Video Clips Streaming Server](https://github.com/vineethvijay/Random-Video-Clips-Streaming-Server) as a personal IPTV-style project
 
-fun_fact:   Breaking and fixing infrastructure since 2015
 ```
 
 ---
@@ -178,7 +181,7 @@ Old laptops don't retire — they run Proxmox. I keep a small homelab alive with
 
 Latest project I'm building on it:
 
-**[Random Video Clips Streaming Server](https://github.com/vineethvijay/Random-Video-Clips-Streaming-Server)** — A fully containerized live streaming server that shuffles short clips from a video collection into a never-ending HLS live stream, with continuous background audio and a Flutter TV/Web client. Because why not have your own IPTV channel.
+**[Random Video Clips Streaming Server](https://github.com/vineethvijay/Random-Video-Clips-Streaming-Server)** ([LinkedIn story](https://www.linkedin.com/posts/vineeth-vijay_github-vineethvijayrandom-video-clips-streaming-server-activity-7432732024550969345-LfMZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLrTnIBAc3z7oGas5AIjNBpNyexSh_JlAE)) — A fully containerized live streaming server that shuffles short clips from a video collection into a never-ending HLS live stream, with continuous background audio and a Flutter TV/Web client. Because why not have your own IPTV channel.
 
 ---
 
