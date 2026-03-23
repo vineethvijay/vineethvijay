@@ -12,7 +12,7 @@ name:       Vineeth Vijayan
 location:   Huizen, Amsterdam 🇳🇱
 day_job:    Senior DevOps Engineer @ IKEA
 philosophy: "If you did it twice, automate it. If you automated it, monitor it."
-fun_fact:   Breaking and fixing infrastructure since 2015
+fun_fact:   Breaking and fixing infrastructure since 2011
 
 currently:
   ikea:
@@ -153,11 +153,16 @@ Qburst            ████████░░░░░░░░░░░░  
 
 ### 🏠 Homelab
 
-Old laptops don't retire - they run Proxmox. I keep a small homelab alive with a few repurposed machines running **Proxmox**, hosting **70+ containers** across various self-hosted services. It's where I break things on purpose, test ideas without consequences, and genuinely have fun.
+> Old laptops do not retire - they run Proxmox.
+>
+> I run a compact homelab on repurposed machines with **70+ containers** across self-hosted services. It is my playground to break things safely, test ideas fast, and keep learning.
 
-Latest project I'm building on it:
+**Now building**
 
-**[Random Video Clips Streaming Server](https://github.com/vineethvijay/Random-Video-Clips-Streaming-Server)** ([LinkedIn story](https://www.linkedin.com/posts/vineeth-vijay_github-vineethvijayrandom-video-clips-streaming-server-activity-7432732024550969345-LfMZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLrTnIBAc3z7oGas5AIjNBpNyexSh_JlAE)) - A fully containerized live streaming server that shuffles short clips from a video collection into a never-ending HLS live stream, with continuous background audio and a Flutter TV/Web client. Because why not have your own IPTV channel.
+**📺 [Random Video Clips Streaming Server](https://github.com/vineethvijay/Random-Video-Clips-Streaming-Server)**  
+A fully containerized IPTV-style stream that continuously shuffles short clips into a never-ending HLS channel, with independent background audio and a Flutter TV/Web client.
+
+Read the build story on [LinkedIn](https://www.linkedin.com/posts/vineeth-vijay_github-vineethvijayrandom-video-clips-streaming-server-activity-7432732024550969345-LfMZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLrTnIBAc3z7oGas5AIjNBpNyexSh_JlAE).
 
 ---
 
