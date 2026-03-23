@@ -14,9 +14,12 @@ day_job:    Senior DevOps Engineer @ IKEA
 philosophy: "If you did it twice, automate it. If you automated it, monitor it."
 
 currently:
-  - Managing 1000+ pod Kubernetes environments across all IKEA regions
-  - Rebuilding observability stacks from scratch with OpenTelemetry → Grafana
+  - Managing 600+ pod Kubernetes environments across all prod regions for some IKEA store applications
+  - Rebuilding observability stack with OpenTelemetry → Grafana
   - Migrating Kafka clusters without anyone noticing (zero downtime)
+  - Alicloud cloud setup (k8s, databases) for special China region requirements
+  - Building AI agents to supercharge ServiceNow incident handling (won IKEA Hackathon 🏆)
+  - Setting up monitoring where traditional setups are absent or simply not possible
 
 fun_fact:   Breaking and fixing infrastructure since 2015
 ```
@@ -38,13 +41,18 @@ fun_fact:   Breaking and fixing infrastructure since 2015
 <div align="center">
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
